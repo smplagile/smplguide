@@ -41,9 +41,9 @@ _**This guide is being actively updated. For the most up to date, and official c
   - ## The principles of SMPL are
 
     - ##### Vision
-      A visually vivid description of the reaction, behavior and emotions that a transformation should produce upon succeeding. It must be visible to the naked eye at every stage, phase, interval, milestone, and activity performed during the value creation process.
+      A visually vivid description of the expression, reaction, behavior and emotions that a transformation should produce among those impacted by it should the attempts to realize it succeed. It must be visible to the naked eye at every stage, phase, interval, milestone, and activity performed during the value creation process.
 
-	  Vision is decomposable or compoundable as part of continuous transformation.
+	  A vision could be combined with other visions or could be  as part of continuous transformation.
 
     - ##### Transformation
       All the things that will have changed to bring the vision to life _[Realizing the vision]_. This encompasses, behavior, priorities, mindset, values, organizational structures, skills, technical specifications, implementations, and in a nutshell all 360 degrees of the body that has accepted the responsibility of producing the outcomes set forth in the vision.
