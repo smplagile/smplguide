@@ -10,10 +10,5 @@ A model based on SMPL for an agile operation with primary emphasis on adapting.
 
 ---
 
-# Invision
-A model based on SMPL for a scaling 20/20 Vision
-
----
-
 # Hollywood
 A model based on SMPL that uses hollywood terminalogy mainly for individuals and teams who looking for a nominclature change for the sake of a cultural transformation
