@@ -1,6 +1,5 @@
 # A collection of models that are based on SMPL
 1. 20/20 Vision
-1. Invision
 1. Hollywood
 
 ---
