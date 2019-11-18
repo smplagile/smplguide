@@ -1,1 +1,1 @@
-Moving the common questions to the Wiki
+Conveting the Questions and Answers to Issues.
