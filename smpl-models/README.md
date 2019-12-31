@@ -9,5 +9,5 @@ A model based on SMPL for an agile operation with primary emphasis on adapting.
 
 ---
 
-# Hollywood
-A model based on SMPL that uses hollywood terminalogy mainly for individuals and teams who looking for a nominclature change for the sake of a cultural transformation
+# ELUATIR
+A model based on SMPL that emphasizes on learning, understanding and acceptance of empirical knowledge as the basis for transformation and the use of empirical evidence during inspection to reinforce, refine and repeat.
