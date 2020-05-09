@@ -16,4 +16,4 @@ With that in mind, it would make sense to relable the columns so that we have th
 1. Blocked --> Circling?
 1. Done --> Landed
 
-At first glance, this seems to be a workable solution. It's a process in fact.
+At first glance, this seems to be a workable solution. It's a state macchine. In fact, it's a basic state. It maintains 4 states. But the reality is that quantitative data, the direct measurement data is 
